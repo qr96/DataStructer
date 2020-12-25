@@ -1,5 +1,6 @@
 # DataStructer
 
-자료구조 정리
+##1. 트리
 
-1. B-tree
+1) AVL tree
+2) B-tree 
